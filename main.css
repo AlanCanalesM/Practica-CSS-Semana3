@@ -1,0 +1,239 @@
+
+
+.menu {
+    
+    width: 100%¬;
+    float: right;
+    margin-right: 25px; 
+    }
+.menu li {
+        display: inline;
+        width: 100%;
+        
+        }
+
+.an{
+        font-family: Arial;
+        font-size:15px;
+        text-decoration: none;
+        float:right;
+        padding: 25px;
+        background-color: #FFF;
+        color: #0d1a71;
+        margin-right: 25px;
+            }
+
+.boton {
+        border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+        padding: 10px; /*espacio alrededor texto*/
+        background-color: #2e518b; /*color botón*/
+        color: #ffffff; /*color texto*/
+        text-decoration: none; /*decoración texto*/
+        text-transform: uppercase; /*capitalización texto*/
+        font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+        border-radius: 50px; /*bordes redondos*/
+        float: right;
+        }
+
+.landing{
+    position: absolute;
+    width: 100%;
+}
+
+.landinginf{
+    margin-left: -7px;
+    background-color: #fffa89;
+    width: 50%;
+    height: 565px;
+    margin-top: 83px;
+    position: absolute;
+}
+
+.landingimg{
+    background-color: #0d1a71;
+    width: 50%;
+    margin-left: 49.7%;
+    height: 565px;
+    margin-top: 83px;
+}
+
+.tituloinfo{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 25%;
+    margin-left: 25%;
+    font-size: 50px;
+}
+
+.info{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 25%;
+
+}
+
+.second{
+    position: absolute;
+    background-color: #fff;
+    width: 100%;
+    height: 400px;
+    margin-top: 648px;
+    margin-left: -8px;
+}
+
+.titulo2{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 13%;
+    margin-left: 13%;
+    font-size: 30px;
+}
+
+
+
+.tarjeta{
+    display: inline;
+    width: auto;
+    border: 2px solid #fffa89;
+    height: 250px;
+    float: left;
+    padding: auto;
+    margin-left: 90px;
+    margin-top: 20px;
+    
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0d1a71;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.infotarjeta{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0px;
+    margin-left: 0%;
+    padding: 10px;
+}
+
+.third1{
+
+    width: 50%;
+    background-color: #0d1a71;
+    height: 500px;
+    margin-top: 400px;
+
+}
+
+.third2{
+    background-color: #fff;
+    width: 50%;
+    height: 600px;
+    margin-left: 50%;
+    margin-top: -500px;
+}
+
+.titulo3{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    padding: 40px;
+
+}
+
+.info3{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+.lista3{
+    color: #0d1a71;
+    list-style: none;
+    margin-top: 40px;
+}
+
+.lista3 li{
+    margin-top: 25px;
+}
+
+.fourth1{
+    background-color: white;
+    width: 60%;
+    height: 550px;
+    margin-top: 900px;
+}
+
+.fourth2{
+    background-color:#0d1a71;
+    width: 40%;
+    height: 550px;
+    margin-top: -550px;
+    margin-left: 60%;
+
+}
+
+.titulo4{
+    color: #0d1a71;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    
+}
+
+.texto4{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+
+
+.tarjeta2{
+    display: inline;
+    width: auto;
+    border: 2px solid #fffa89;
+    height: 150px;
+    float: left;
+    padding: auto;
+    margin-left: 150px;
+    margin-top: 20px;
+    
+}
+footer{
+    margin-top: 1500px;
+    position: absolute;
+    background-color: #F8F8F8 ;
+    width: 100%;
+    height: 200px;
+    display: inline;
+}
+
+.titulof{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 50px;
+
+}
+
+.pf{
+    color: #0d1a71;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+
+.titulof2{
+    color: #0d1a71;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: -30px
+}
